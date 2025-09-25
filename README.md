@@ -10,4 +10,3 @@ Acquired environment
 Process:
 1. Obtain your known protein combined with ligand or DNA
 2. Get seperate files of only protein and ligand/DNA from MDanalysis
-3. 
